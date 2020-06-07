@@ -1,0 +1,221 @@
+<resources>
+    <string name="app_name">Projek 4</string>
+
+    <string-array name="judul">
+        <item>The Avenger</item>
+        <item>Avengers: Age Of Ultron</item>
+        <item>Avengers: Infinity War</item>
+        <item>Captain Marvel</item>
+        <item>Avenger: Endgame</item>
+    </string-array>
+
+    <array name="photo">
+        <item>@drawable/avengers</item>
+        <item>@drawable/avengers2</item>
+        <item>@drawable/avengers3</item>
+        <item>@drawable/captainmarvel</item>
+        <item>@drawable/avengers4</item>
+    </array>
+
+    <string-array name="desc">
+        <item>Earths mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.</item>
+        <item>When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and its up to Earths mightiest heroes to stop the villainous Ultron from enacting his terrible plan.</item>
+        <item>The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.</item>
+        <item>Carol Danvers becomes one of the universes most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.</item>
+        <item>After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos actions and restore balance to the universe.</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Adventure, Sci-Fi</item>
+    </string-array>
+    
+    <string-array name="durasi">
+        <item>126 min</item>
+        <item>112 min</item>
+        <item>124 min</item>
+        <item>115 min</item>
+        <item>124 min</item>
+    </string-array>
+
+    <string-array name="sutradara">
+        <item>Jon Favreau</item>
+        <item>Lois Leterrier</item>
+        <item>Jon Favreau</item>
+        <item>Kenneth Branagh</item>
+        <item>Joe Johnston</item>
+    </string-array>
+
+    <string-array name="tahun">
+        <item>2008</item>
+        <item>2008</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2011</item>
+    </string-array>
+
+    <string-array name="avengers1">
+        <item>Robert Downey Jr.</item>
+        <item>Chris Evans</item>
+        <item>Chris Hemsworth</item>
+        <item>Jeremy Renner</item>
+        <item>Mark Ruffalo</item>
+        <item>Scarlett Johansson</item>
+        <item>Tom Hiddleston</item>
+        <item>Samuel L. Jackson</item>
+        <item>Cobie Smulders</item>
+    </string-array>
+
+    <array name="castavenger1">
+        <item>@drawable/rdj</item>
+        <item>@drawable/chrise</item>
+        <item>@drawable/chrish</item>
+        <item>@drawable/jeremy</item>
+        <item>@drawable/mark</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/tomh</item>
+        <item>@drawable/samuel</item>
+        <item>@drawable/cobie</item>
+    </array>
+
+    <string-array name="avengers2">
+        <item>Robert Downey Jr.</item>
+        <item>Chris Evans</item>
+        <item>Chris Hemsworth</item>
+        <item>Jeremy Renner</item>
+        <item>Mark Ruffalo</item>
+        <item>Scarlett Johansson</item>
+        <item>Samuel L. Jackson</item>
+        <item>Cobie Smulders</item>
+        <item>James Spader</item>
+        <item>Elizabeth Olsen</item>
+        <item>Aaron Taylor-Johnson</item>
+        <item>Andy Serkis</item>
+        <item>Paul Bettany</item>
+    </string-array>
+
+    <array name="castavenger2">
+        <item>@drawable/rdj</item>
+        <item>@drawable/chrise</item>
+        <item>@drawable/chrish</item>
+        <item>@drawable/jeremy</item>
+        <item>@drawable/mark</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/samuel</item>
+        <item>@drawable/cobie</item>
+        <item>@drawable/james</item>
+        <item>@drawable/elizabeth</item>
+        <item>@drawable/aaron</item>
+        <item>@drawable/andy</item>
+        <item>@drawable/paul</item>
+    </array>
+
+    <string-array name="avenger3">
+        <item>Josh Brolin</item>
+        <item>Chris Evans</item>
+        <item>Anthony Mackie</item>
+        <item>Sebastian Stan</item>
+        <item>Elizabeth Olsen</item>
+        <item>Jeremy Renner</item>
+        <item>Robert Downey. Jr</item>
+        <item>Scarlett Johansson</item>
+        <item>Mark Ruffalo</item>
+        <item>Chris Hemsworth</item>
+        <item>Don Cheadle</item>
+        <item>Paul Bettany</item>
+        <item>Chadwick Boseman</item>
+        <item>Tom Holland</item>
+        <item>Chris Pratt</item>
+        <item>Zoe Zaldana</item>
+        <item>Dave Bautista</item>
+        <item>Karen Gillan</item>
+        <item>Bradley Cooper</item>
+        <item>Vin Diesel</item>
+        <item>Benedict Cumberbatch</item>
+        <item>Benedict Wong</item>
+    </string-array>
+
+    <array name="castavenger3">
+        <item>@drawable/josh</item>
+        <item>@drawable/chrise</item>
+        <item>@drawable/anthonym</item>
+        <item>@drawable/sebastian</item>
+        <item>@drawable/elizabeth</item>
+        <item>@drawable/jeremy</item>
+        <item>@drawable/rdj</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/mark</item>
+        <item>@drawable/chrish</item>
+        <item>@drawable/don</item>
+        <item>@drawable/paul</item>
+        <item>@drawable/chadwick</item>
+        <item>@drawable/tomho</item>
+        <item>@drawable/chrisp</item>
+        <item>@drawable/zoe</item>
+        <item>@drawable/dave</item>
+        <item>@drawable/karen</item>
+        <item>@drawable/bradley</item>
+        <item>@drawable/vin</item>
+        <item>@drawable/benedict</item>
+        <item>@drawable/wong</item>
+    </array>
+
+    <string-array name="captainmarvel">
+        <item>Brie Larson</item>
+        <item>Jude Law</item>
+        <item>Ben Mendelshon</item>
+        <item>Samuel L. Jackson</item>
+        <item>Gemma Chan</item>
+        <item>Djimon Hounsou</item>
+        <item>Annete Benning</item>
+        <item>Lashana Lynch</item>
+    </string-array>
+
+    <array name="castcaptainmarvel">
+        <item>@drawable/brie</item>
+        <item>@drawable/jude</item>
+        <item>@drawable/benm</item>
+        <item>@drawable/samuel</item>
+        <item>@drawable/gemma</item>
+        <item>@drawable/djimon</item>
+        <item>@drawable/annete</item>
+        <item>@drawable/lashana</item>
+    </array>
+
+    <string-array name="avenger4">
+        <item>Josh Brolin</item>
+        <item>Chris Evans</item>
+        <item>Jeremy Renner</item>
+        <item>Robert Downey. Jr</item>
+        <item>Mark Rufallo</item>
+        <item>Chris Hemsworth</item>
+        <item>Scarlett Johansson</item>
+        <item>Don Cheadle</item>
+        <item>Karen Gillan</item>
+        <item>Bradley Cooper</item>
+        <item>Brie Larson</item>
+        <item>Danai Gurira</item>
+        <item>Paul Rudd</item>
+    </string-array>
+
+    <array name="castavenger4">
+        <item>@drawable/josh</item>
+        <item>@drawable/chrise</item>
+        <item>@drawable/jeremy</item>
+        <item>@drawable/rdj</item>
+        <item>@drawable/mark</item>
+        <item>@drawable/chrish</item>
+        <item>@drawable/scarlett</item>
+        <item>@drawable/don</item>
+        <item>@drawable/karen</item>
+        <item>@drawable/bradley</item>
+        <item>@drawable/brie</item>
+        <item>@drawable/danai</item>
+        <item>@drawable/paulr</item>
+    </array>
+
+</resources>
+
